@@ -7,7 +7,7 @@
     <img src="public/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">The Noble Quran</h1>
+  <h1 align="center">Elecrtonic Quran</h1>
 
  
 </p>
