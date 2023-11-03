@@ -1,9 +1,4 @@
-<!--
-*** Thanks for checking out this Quran.com repo. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-***  an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -14,35 +9,11 @@
 
   <h1 align="center">The Noble Quran</h1>
 
-  <p align="center">
-    The official source code repository for Quran.com
-    <br />
-    <a href="https://discord.gg/SpEeJ5bWEQ"><strong>Join Quran.com community »</strong></a>
-    <br />
-    <br />
-    <a href="https://quran.com">Visit Quran.com</a>
-    ·
-    <a href="https://github.com/quran/quran.com-frontend-next/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/quran/quran.com-frontend-next/issues">Request Feature</a>
-    •
-    <a href="https://quran.github.io/quran.com-frontend-next/storybook/master">Storybook</a>
-  </p>
+ 
 </p>
 
-<!-- PROJECT SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
 
-This project is the frontend for Quran.com. It is built on top of [next.js](https://nextjs.org/docs/getting-started), a popular framework that takes the trouble and setup of setting up an isomorphic react app. We deploy it on now.sh automatically with automatic generation of builds for PRs.
-
-### How to contribute
-
-We trust that you will not copy this idea/project, this is at the end for the sake of Allah and we all have good intentions while working with this project. But we must stress that copying the code/project is unacceptable.
 
 ### Running the app locally
 
